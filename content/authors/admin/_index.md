@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: MEP AMSTERDAM
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -11,7 +11,7 @@ last_name: Chien
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: MEP AMSTERDAM
+    url: https://mepnederland.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
